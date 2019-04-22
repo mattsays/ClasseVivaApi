@@ -1,0 +1,19 @@
+{
+  "name": "classeviva-api",
+  "version": "1.2",
+  "description": "A simple api to interact with spaggiari's site",
+  "main": "index.js",
+  "keywords": [
+    "classeviva", "classeviva-api"
+  ],
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "MattSays",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
