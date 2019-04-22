@@ -6,8 +6,8 @@
   "scripts": {
     "test": "node main.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "MattSays",
+  "license": "MIT",
   "dependencies": {
     "classeviva-api": "^1.1.2",
     "express": "^4.16.4"

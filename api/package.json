@@ -1,8 +1,12 @@
 {
   "name": "classeviva-api",
-  "version": "1.2",
+  "version": "1.2.0a",
   "description": "A simple api to interact with spaggiari's site",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattSays/ClasseVivaApi.git"
+  },
   "keywords": [
     "classeviva", "classeviva-api"
   ],
@@ -10,7 +14,7 @@
     "test": "node ."
   },
   "author": "MattSays",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "request": "^2.88.0",
