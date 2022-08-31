@@ -1,4 +1,4 @@
-# ClasseViva API
+# ClasseViva API - DEPRECATED
 
 ClasseViva API is a library that helps you comunicating with the Spaggiari's website
 
